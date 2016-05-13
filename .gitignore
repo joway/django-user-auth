@@ -1,0 +1,6 @@
+*.sqlite3
+.idea
+*.pyc
+*.pyo
+__pycache__/
+config/settings/secret.py
